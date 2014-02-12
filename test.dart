@@ -1,4 +1,4 @@
-import 'lib/automaton.dart';
+import 'lib/lexer.dart';
 import 'package:unittest/unittest.dart';
 
 void main() {
