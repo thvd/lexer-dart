@@ -1,0 +1,4 @@
+name: automaton-lexer
+description: An automaton generator that allows to build lexers easily
+dependencies:
+  unittest: "0.10.0"
