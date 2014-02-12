@@ -6,6 +6,8 @@ The code is released under the terms of the [MIT license](http://conradk.mit-lic
 
 Please report bugs and submit pull requests with fixes and/or test cases.
 
+Note: This tool is under development. At the moment, I cannot guarantee that there won't be BC breaking changes although I hope not to have to do this. Feel free send your feedback if you use this tool.
+
 [![Build Status](https://drone.io/github.com/conradkleinespel/automaton-generator-dart/status.png)](https://drone.io/github.com/conradkleinespel/automaton-generator-dart/latest)
 
 ## An example: simple Shell lexer

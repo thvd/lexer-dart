@@ -1,4 +1,6 @@
-name: automaton-lexer
-description: An automaton generator that allows to build lexers easily
+name: lexer
+author: Conrad Kleinespel <conradk@conradk.com>
+description: Lexing tools for Dart - under development
+homepage: https://github.com/conradkleinespel/lexer-dart
 dependencies:
   unittest: "0.10.0"
