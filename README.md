@@ -19,7 +19,7 @@ If you run `dart -c example.dart`, you should see the following output, represen
 
 The code:
 ```dart
-import 'automaton.dart';
+import 'package:lexer/lexer.dart';
 
 int main() {
   CommandLineAutomaton am = new CommandLineAutomaton();
