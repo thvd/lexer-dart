@@ -1,4 +1,5 @@
 name: lexer
+version: 0.0.0
 author: Conrad Kleinespel <conradk@conradk.com>
 description: Lexing tools for Dart - under development
 homepage: https://github.com/conradkleinespel/lexer-dart

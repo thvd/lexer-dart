@@ -1,4 +1,4 @@
-import 'automaton.dart';
+import 'lib/automaton.dart';
 
 int main() {
   CommandLineAutomaton am = new CommandLineAutomaton();

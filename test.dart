@@ -1,4 +1,4 @@
-import 'automaton.dart';
+import 'lib/automaton.dart';
 import 'package:unittest/unittest.dart';
 
 void main() {
