@@ -1,6 +1,6 @@
-# Automaton based lexer helper for Dart
+# Lexing tools for Dart
 
-Tools that make writing automaton based lexer's easy and enjoyable.
+Tools that make writing lexer's easy and enjoyable.
 
 The code is released under the terms of the [MIT license](http://conradk.mit-license.org/license.html).
 
